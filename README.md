@@ -1,9 +1,6 @@
-# learning-cpp
-Daily practice of C++ basics and programs
+# learning-cpp 🚀 
 
-# C++ Daily Practice 🚀
-
-This repository contains my **daily practice code** while learning the basics of C++.  
+This repository contains my **daily practice code** while learning C++.  
 Each folder represents a **day of progress**, with programs and notes.
 
 ---
