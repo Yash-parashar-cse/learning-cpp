@@ -1,0 +1,1 @@
+Practice of various patterns..
